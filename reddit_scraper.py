@@ -19,18 +19,20 @@ reddit = praw.Reddit(client_id='0tV6hcxX9LPmXw', \
                     password='Sp1tf1re')
 
 config = 'config'
-conf = open(config, 'r')
 
-search_conf = conf.readlines()[0]
+#Search Variable
+search_conf = open(config, 'r').readlines()[0]
 s = search_conf.split("search=")
 x = s[1].strip()
-
+#Subreddit variable
 subreddit_conf = open(config, 'r').readlines()[1]
 sub = subreddit_conf.split("subreddit=")
 y = sub[1].strip()
 
+#Debugging
 print(x)
 print(y)
+
 # Feel free to edit this as you please.
 subreddit = reddit.subreddit(y)
 search_subreddit = subreddit.search(x, sort='new', limit=25, time_filter='hour')
@@ -49,8 +51,10 @@ def temp_log(src):
     shutil.copy2(src, temp_path)
     return temp_path
 
+#Arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('-s', help='Search function. This will replace "Search= " in the config file. Uses same search functions as reddit.')
+parser.add_argument('-r', help='This option will set your subreddit in the config file')
 args = parser.parse_args()
 
 temp_log('log.txt')
@@ -58,14 +62,24 @@ log = open('log.txt', 'a+')
 tmp = open('temp_log.txt', 'r+')
 
 if args.s:
-    search = 'search='
-    new_search = search + args.s
+    search_arg = 'search='
+    new_search = search_arg + args.s
     x = fileinput.input(files=config, inplace=1)
     for line in x:
-        if search in line:
+        if search_arg in line:
             line = new_search
         print(line.strip())
     x.close()
+
+if args.r:
+    sub_arg = 'subreddit='
+    newsubreddit = sub_arg + args.r
+    sr = fileinput.input(files=config, inplace=1)
+    for line in sr:
+        if sub_arg in line:
+            line = newsubreddit
+        print(line.strip())
+    sr.close()
 
 if not any(vars(args).values()):
     for submission in search_subreddit:
