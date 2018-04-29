@@ -12,12 +12,6 @@ import subprocess
 import difflib
 
 home = expanduser('~')
-reddit = praw.Reddit(client_id='0tV6hcxX9LPmXw', \
-                    client_secret='I9qlilfmwqRc-7L-LX3jp03rX-M', \
-                    user_agent='Data_Scrape', \
-                    username='dalesnail', \
-                    password='Sp1tf1re')
-
 config = 'config'
 
 #Search Variable
@@ -28,10 +22,25 @@ x = s[1].strip()
 subreddit_conf = open(config, 'r').readlines()[1]
 sub = subreddit_conf.split("subreddit=")
 y = sub[1].strip()
-
+#UN
+un_config = open(config, 'r').readlines()[2]
+un = un_config.split("user=")
+u = un[1].strip()
+#PW
+pw_config = open(config, 'r').readlines()[3]
+pw = pw_config.split("password=")
+p = pw[1].strip()
 #Debugging
 print(x)
 print(y)
+print(u)
+print(p)
+
+reddit = praw.Reddit(client_id='0tV6hcxX9LPmXw', \
+                    client_secret='I9qlilfmwqRc-7L-LX3jp03rX-M', \
+                    user_agent='Data_Scrape', \
+                    username=u, \
+                    password=p)
 
 # Feel free to edit this as you please.
 subreddit = reddit.subreddit(y)
