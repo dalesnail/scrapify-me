@@ -31,14 +31,24 @@ u = un[1].strip()
 pw_config = open(config, 'r').readlines()[3]
 pw = pw_config.split("password=")
 p = pw[1].strip()
+#Cid
+cid_config = open(config, 'r').readlines()[4]
+cid = cid_config.split("clientid=")
+c = cid[1].strip()
+#Secret
+secret_config = open(config, 'r').readlines()[5]
+secret = secret_config.split("clientsecret=")
+cs = secret[1].strip()
 #Debugging
 print(x)
 print(y)
 print(u)
 print(p)
+print(c)
+print(cs)
 
-reddit = praw.Reddit(client_id='0tV6hcxX9LPmXw', \
-                    client_secret='I9qlilfmwqRc-7L-LX3jp03rX-M', \
+reddit = praw.Reddit(client_id=c, \
+                    client_secret=cs, \
                     user_agent='Data_Scrape', \
                     username=u, \
                     password=p)
@@ -61,10 +71,23 @@ def temp_log(src):
     shutil.copy2(src, temp_path)
     return temp_path
 
+def config_change(option, arg):
+    new_option = option + arg
+    x = fileinput.input(files=config, inplace=1)
+    for line in x:
+        if option in line:
+            line = new_option
+        print(line.strip())
+    x.close()
+
 #Arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('-s', help='Search function. This will replace "Search= " in the config file. Uses same search functions as reddit.')
 parser.add_argument('-r', help='This option will set your subreddit in the config file')
+parser.add_argument('-u', help='This option changes your username.')
+parser.add_argument('-p', help='This option changes your password.')
+parser.add_argument('-cid', help='This option changes the client ID provided by Reddit')
+parser.add_argument('-secret', help='This option changes the "secret" provided by reddit')
 args = parser.parse_args()
 
 temp_log('log.txt')
@@ -72,24 +95,22 @@ log = open('log.txt', 'a+')
 tmp = open('temp_log.txt', 'r+')
 
 if args.s:
-    search_arg = 'search='
-    new_search = search_arg + args.s
-    x = fileinput.input(files=config, inplace=1)
-    for line in x:
-        if search_arg in line:
-            line = new_search
-        print(line.strip())
-    x.close()
+    config_change('search=', args.s)
 
 if args.r:
-    sub_arg = 'subreddit='
-    newsubreddit = sub_arg + args.r
-    sr = fileinput.input(files=config, inplace=1)
-    for line in sr:
-        if sub_arg in line:
-            line = newsubreddit
-        print(line.strip())
-    sr.close()
+    config_change('subreddit=', args.r)
+
+if args.u:
+    config_change('user=', args.u)
+
+if args.p:
+    config_change('password=', args.p)
+
+if args.cid:
+    config_change('clientid=', args.cid)
+
+if args.secret:
+    config_change('clientsecret=', args.secret)
 
 if not any(vars(args).values()):
     for submission in search_subreddit:
