@@ -18,19 +18,21 @@ reddit = praw.Reddit(client_id='0tV6hcxX9LPmXw', \
                     username='dalesnail', \
                     password='Sp1tf1re')
 
-subreddit = reddit.subreddit('mechmarket')
 config = 'config'
 conf = open(config, 'r')
-search = conf.readlines()[0] #input('Search: ')
-subreddit = conf.readlines()[1]
-#s = search.readlines()[0]
-s = search.split("search=")
-sub = subreddit.split("subreddit=")
-x = s[1]
-y = sub[1]
+
+search_conf = conf.readlines()[0]
+s = search_conf.split("search=")
+x = s[1].strip()
+
+subreddit_conf = open(config, 'r').readlines()[1]
+sub = subreddit_conf.split("subreddit=")
+y = sub[1].strip()
+
 print(x)
 print(y)
 # Feel free to edit this as you please.
+subreddit = reddit.subreddit(y)
 search_subreddit = subreddit.search(x, sort='new', limit=25, time_filter='hour')
 
 # Remember to export SLACK_BOT_TOKEN="My API Token"
