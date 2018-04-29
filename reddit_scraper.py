@@ -14,6 +14,7 @@ import difflib
 home = expanduser('~')
 config = 'config'
 
+# This series of opens below may look odd to someone more versed in python, but I just could not get the variables working in another more concise way. Will improve later when I have a better grasp on this. 
 #Search Variable
 search_conf = open(config, 'r').readlines()[0]
 s = search_conf.split("search=")
