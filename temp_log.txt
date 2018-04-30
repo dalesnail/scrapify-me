@@ -1,38 +1,202 @@
-[AU] [H] Duck Viper V2, Revo RJ [W] PayPal: https://redd.it/8foxhw
-[AU] [H] HHKB Pro2, HHKB Lite2 [W] PayPal, AusPost CoD, Pickup (Canberra): https://redd.it/8fo8eq
-[CA-ON] [H] PayPal [W] 75% keycaps, one artisan: https://redd.it/8fth5v
-[EU-BE] [H] Artisans (Artkey (Raiji, Presents) No Esc, Peek, Yeti, GLoveSA ISO) [W] Trades : https://redd.it/8fmdor
-[EU-BE][H]China Moon TKL, Tina C W/ "Modios"[W] PayPal, SEPA: https://redd.it/8fjlo2
-[EU-DK] [H] MX Silent Blacks, Vint. Blacks, Duck Lightsaver 3 [W] Paypal: https://redd.it/8fqofn
-[EU-UK][H]Paypal, Artisan(Joyboy, Keybuto, Raiji) [W] NITROCULTURE FUGU(to complete culture fugus), High Caffeine, Alabaster Gleam Keybuto II : https://redd.it/8fm6dz
-[EU-UK] [H] PayPal [W] 55g Topre Domes/Board: https://redd.it/8fimdx
-[HK] [H] Duck Jetfire, Paypal [W] Trades, Norbatouch Case, GMK Terminal: https://redd.it/8fj0vc
-[KR][H] Paypal $730 / [W] Duck viper v2: https://redd.it/8fkwl5
-[TH][H] Paypal [W] K-Type / Hot swap keyboard: https://redd.it/8fqygm
-[US-CA] [H] Minivan, Planck, Fourier, Daisy, DZ60, M0110, Whitefox [W] Paypal: https://redd.it/8focoy
-[US-CA] [H] PayPal, GMK Solarized Dark Base, Soldering services [W] GMK Oblivion (either alpha color): https://redd.it/8fpuwp
-[US-CA] [H] SA Lime, Cyan, Portland, Taboo, Mito Canvas, JTK Toxic, Dev TTY, G20 Stealth, Tao Hao Jukebox cubic, Coffee PBT, Chocolatier, Budapest, Deskcandy Red Ripple 60% case, Tex Acrylic TKL case, Varmilo VB87 Red Alu Case, EnjoyPBT Trays, Zeal Tester, K-Type, iKBC F108, Unicomp [W] paypal, GMK : https://redd.it/8fm2xk
-[US-CA] [H] Stapleberg Controller for Kinesis [W] Paypal : https://redd.it/8fm656
-[US-CA] [H] Stapleberg Controller for Kinesis [W] Paypal: https://redd.it/8fm656
-[US-CA] [H] TADA68 (Gateron Browns) [W] Paypal/Local Cash: https://redd.it/8ftora
-[US-CO][H] PayPal [W] Invyr Pandas : https://redd.it/8fm36r
-[US-FL] [H] /dev/tty triumph, topre artisan blanks, HKP topre spacebar [W] Paypal: https://redd.it/8formj
-[US-IA][H] Keyboards/QMX Clips/Nautilus [W] Paypal,Trades: https://redd.it/8fknec
-[US-KS][H]PayPal [W] Assembled TKL w/ Gateron Yellows or Blacks: https://redd.it/8fq2bd
-[US-LA] [H] Artisans [W] PayPal: https://redd.it/8fn3qa
-[US-MD] [H] Gray Mod-M KBD75, Custom Cables [W] PayPal: https://redd.it/8fldr8
-[US-MO] [H] Boards and switches [W] PayPal: https://redd.it/8flacj
-[US-NY][H]60% linear endgame, Artisans, Duck Octagon V2, PayPal [W] Clack Skull! PayPal: https://redd.it/8foplb
-[US-OH][H] LJD61UP Carbon Fiber 60% Board with Gat Browns and Massdrop Originative Carbon Black [W] Paypal: https://redd.it/8fl4mv
-[US-OH] [H] PayPal / Cash [W] GH Krytox mix : https://redd.it/8fm6wl
-[US-PA][H] PayPal, Local Cash [W] 65g r7+ zealios, zeal stabs r2 or newer : https://redd.it/8fmdxg
-[US-SC] [H] ETF, JAK, SUK, Zorb, M65-A gold brass Plate/Weight, 60% build, Dasher Spacebar kit [W] M65-A black brass plate/weight, Trades, Paypal : https://redd.it/8fm2zp
-[US-SC] [H] ETF, JAK, SUK, Zorb, M65-A gold brass Plate/Weight, 60% build, Dasher Spacebar kit [W] M65-A black brass plate/weight, Trades, Paypal: https://redd.it/8fm2zp
-[US-TN] [H] 96Kee, XD84/Cospad, Ducky Pocket, Knops Mini [W] Paypal, Silver Mechmini 2: https://redd.it/8ftbam
-[US-TX][H] Duck Unicorn X Legend Vintage Blacks [W] Paypal, Moon tkl, Mira, LZ Clsm or other tkls.: https://redd.it/8fl9nf
-[US-TX] [H] GMK Oblivion (Grey), GMK Miami Dusk, Levɘ˩ keyboard, Alu Tada68 build [W] Paypal, GMK Terminal, GMK N9 VE.A Spacebars: https://redd.it/8fpfnz
-[US-TX] [H] PrimeCap / CM PBT L Cherry MX Blues [W] Paypal, Local Cash: https://redd.it/8fmm9m
-[US-WA] [H] Artisans [W] Trades/Paypal : https://redd.it/8fm1bs
-[US-WA] [H] V60, VA68M, aluminum Pok3r case [W] PayPal, 60% aluminum case and plate: https://redd.it/8fnbj9
-[US-WI][H]XDA Godspeed, SA Carbon, Godspeed Blinker, DSA Overcast, SA and DSA GrabBags [W]XDA Godspeed 7u Space, Milky Way, Willing to swap, buy, or combo.: https://redd.it/8fhxur
-[US-CA] [H] GMK Cyan | GMK Blue Alert | DSA Hyperfuse [W] PayPal: https://redd.it/8ftmgp
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[H] Keys [W] *CLEAN* EX TB Arcana Vermillion Renewal: https://redd.it/8g2zk2
+[H] Keys [W] Orbiting Fire Frenchman's Beret/Cosa Nostra Cap: https://redd.it/8g30o5
+[H] p250 boreal forest ft with ibp kato 14 and crown foil [W] 15k: https://redd.it/8g307l
+[H] Porybox and Wi-Fi events [W] Paypal: https://redd.it/8g2zju
+[H] Steam Card Sets [W] 15:1 CsGo/Tf2 keys, 350:1 Gems.: https://redd.it/8g2zzv
+MiNd Level Up Bot » [H] 2,000 Sets - Selling @ 15 : 1 CS / 16 : 1 PUBG / 280 : 1 Gems || Buying @ 17 : 1 CSGO / PUBG: https://redd.it/8g2zlw
+[PC] [H] 20XX + Fireworks + 3 Triumph Crates [W] Trigon: https://redd.it/8g2zn8
+[PC] [H] KEYS [W] LISTED ITEMS: https://redd.it/8g30mr
+[PC] [H] White Octanes [W] offers ; (H)1k (W) 5 triumph ; Trigon + Heat + Storm Watch ; White striker + Pink striker chaks ; (H) Keys (W) Quicksells: https://redd.it/8g2zoz
+[Ps4][h]bella-carra, turbine, zomba, saffron merc, endo, powershot, ekg-omg [w] samurai: https://redd.it/8g2zza
+[PS4] [H] List [W] YOUR UNWANTED TRIUMPH IMPORTS (or keys): https://redd.it/8g30z9
+[PS4] [H] Paragon TW Samurai [W] Storm Watch [H] FG halo [W] 1 key: https://redd.it/8g30x0
+[Ps4] [H] (Striker) TW voltaic [W] 45k: https://redd.it/8g30qt
+[USA-CA][H] 15'6 Asus 1060 6GB LAPTOP, S7 Edge, 4k Monitor [W] Local Cash, Ultrabooks, Cool Things: https://redd.it/8g30gp
+[USA][H]3DS Games [W]Paypal: https://redd.it/8g2zls
+[US-AZ][H] XDA Aurebesh alphas + planck mods purple legends [W] Paypal: https://redd.it/8g1id1
+[US-CA][H] Black HHKB Printed Caps, Artisans [W] Paypal: https://redd.it/8g1lse
+[US-CA] [H] GH60 Satan Zealio build [W] PayPal: https://redd.it/8g1io2
+[US-CA] [H] PayPal [W] Hammer Lagoon 6u Topre Spacebar, SA Raindrop: https://redd.it/8g2y78
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-HI] [H] 87x Halo True Switches [W] Paypal: https://redd.it/8g1sjf
+[US-IN] [H] Acrylic b.mini, GMK Nautilus, Hako Trues, KBD fans plate, Honeywell Fugu, Skullthulu, and Warmaster [W] Paypal: https://redd.it/8g1uu3
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[US-ME] [H] Paypal [W] Noxary X60 plate: https://redd.it/8g2z47
+[US-MI] [H] TGR-910, GMK Skeletor, SA Hyperfuse, RF87U 55g domeswap, GMK Carbon, Vintage stuff, RS68, SA Pulse, Alps Minivan [W] PayPal and specific trades: https://redd.it/8g30dk
+[US-MO] [H] Artisans! (ETF, KF, SUK, Etc.) [W] White Widow, Key Lime Stax, Trades!: https://redd.it/8g2y9b
+[US-MO] [H] PayPal [W] Roadkit: https://redd.it/8g2zhj
+[US-MO] [H] WhiteFox [W] PayPal: https://redd.it/8g2vq9
+[US-NY] [H] Artisans, KAWS, $$$ [W] Clacks, KK, GAF, Cosmos, Pi/Groupthink/Gandalf, RF 86u, Trades, PayPal: https://redd.it/8g1tll
+[US-TX][H] Duck Unicorn X Legend Vintage Blacks [W] Paypal, Moon tkl, Mira, LZ Clsm or other tkls.: https://redd.it/8g2yu6
+[US-VA][H] New Whitefox (TrueFox layout, Hako Trues), Miami Dolch Base, TKL, White Fox, Numpad sets [W] Paypal, Other keysets: https://redd.it/8g3034
+[Xbox] [H] 20XX + Jager + Centio + a few painted RLCS decal [W] Halo set: https://redd.it/8g2zc7
+[xbox] [h] cobalt samurai, 3 triumph, and SB imperator [w] TW Samurai: https://redd.it/8g30lb
+[Xbox] [H] Crimson vortex, orange tunicas, titanium white peppermints, fg ara-51s, and some crates [W] painted discos: https://redd.it/8g2z9y
+[XBOX] [H] Fireworks [W] TW and pink vortex: https://redd.it/8g30xc
+[XBOX] [H] Goalkeeper Sub-Zero & Toon BMGEs [W] 1 Tora Each: https://redd.it/8g2zfj
+[xbox] [H] List [W] pcc/nitro/triumph crates (will take velocity, victory, and turbo for cheaper items): https://redd.it/8g2zp2
+[Xbox] [H] pcc offer [W] Pink zombas: https://redd.it/8g30q5
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki
+[US-FL] [H] DSA Sets, Hana GrabBag, OEM Keycaps [W] PayPal, LocalCash: https://redd.it/8g2q7p
+[US-FL] [H] Artisans [W] Trades: https://redd.it/8g2nte
+[US-MD][H]KBD75, kType, Hako, Zealencios, Zealio Stems, QMX, Variable RF 87U, Yuri, K/Customs, Paypal [W] OTD, Matrix 8Xv1.2, TGR 910, Artisans, Paypal: https://redd.it/8g2n2b
+[EU-PT] [H] CM QFR ISO-DE keycap set / Olivetti KB2812 w/ Dyesubs[W] Paypal: https://redd.it/8g2j25
+[EU-NL] [H] PayPal [W] Godspeed SA Solar Alphas & novelties / Ergodox Cherry profile set: https://redd.it/8g2gki

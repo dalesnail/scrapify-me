@@ -40,8 +40,8 @@ def temp_log(src):
 home = expanduser('~')
 
 # Command line args override config file options
-config = configargparse.ArgParser(default_config_files=['scrapify.cfg'])
-config.add('-c', '--config', required=True, is_config_file=True,
+config = configargparse.ArgumentParser(default_config_files=['{}/scrapify-me/scrapify.cfg'.format(home)])
+config.add('-c', '--config', required=False, is_config_file=True,
            help='Path to config file.')
 config.add('-s', '--search', dest='search_term', help='Term to search for')
 config.add('-r', '--subreddit', dest='sub_reddit', help='Subreddit to search within')
@@ -50,14 +50,15 @@ config.add('-p', '--password', dest='password', help='Reddit password')
 config.add('-cid', '--client-id', dest='client_id', help='Reddit Client ID')
 config.add('-sec', '--client-secret', dest='client_secret', help='Reddit Client Secret')
 config.add('-t', '--token', dest='token', env_var='SLACK_BOT_TOKEN', help='Slack bot token.')
+config.add('-test', help='test')
 args = config.parse_args()
 
-temp_log('log.txt')
-log = open('log.txt', 'a+')
-tmp = open('temp_log.txt', 'r+')
+temp_log('{}/scrapify-me/log.txt'.format(home))
+log = open('{}/scrapify-me/log.txt'.format(home), 'a+')
+tmp = open('{}/scrapify-me/temp_log.txt'.format(home), 'r+')
 
 ## Check which arg values have been set
-# print vars(args).values()
+print(vars(args).values())
 
 # Feel free to edit this as you please.
 subreddit = red(args.client_id,
@@ -69,16 +70,15 @@ search_subreddit = subreddit.search(args.search_term, sort='new', limit=25, time
 
 
 # May need to revist these conditionals 
-if not any(vars(args).values()):
-    for submission in search_subreddit:
-        topics_dict = '{}: {}'.format(submission.title, submission.shortlink)
-        log.seek(0)
-        log.write('{}\n'.format(topics_dict))
+for submission in search_subreddit:
+    topics_dict = '{}: {}'.format(submission.title, submission.shortlink)
+    log.seek(0)
+    log.write('{}\n'.format(topics_dict))
         ## type(topics_dict) # this is just a string, not a dict
-    subprocess.check_call(['sort', '-u', '-o', 'log.txt', 'log.txt'])
-    diff = difflib.ndiff(log.readlines(), tmp.readlines())
-    for line in diff:
-        channel = 'UABLM0KRP'
-        if line[0] == '-':
-            print(line)
-            slack_message(line, channel)
+subprocess.check_call(['sort', '-u', '-o', 'log.txt', 'log.txt'])
+diff = difflib.ndiff(log.readlines(), tmp.readlines())
+for line in diff:
+    channel = 'UABLM0KRP'
+    if line[0] == '-':
+        print(line)
+        slack_message(line, channel, args.token)
