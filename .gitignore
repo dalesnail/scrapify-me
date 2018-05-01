@@ -1,1 +1,4 @@
 config
+scrapify.cfg
+log.txt
+temp_log.txt
