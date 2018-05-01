@@ -9,6 +9,7 @@ import praw
 import shutil
 from slackclient import SlackClient
 import subprocess
+import sys
 
 
 def red(client_id, client_secret, username, password, user_agent='DudeSnail_v0.1'):
@@ -39,8 +40,27 @@ def temp_log(src):
 
 home = expanduser('~')
 
+config_path = '{}/scrapify-me/scrapify.cfg'.format(home)
+
+if not os.path.exists(config_path):
+    with open(config_path, 'w+') as f:
+        f.write('''[scrapify-me]
+search = 
+subreddit = 
+user = 
+password = 
+client-id = 
+client-secret = 
+token = 
+''')
+        print("Set up your config file")
+        sys.exit()
+
+if not os.path.exists('{}/scrapify-me/log.txt'.format(home)):
+    open('{}/scrapify-me/log.txt'.format(home), 'a+')
+
 # Command line args override config file options
-config = configargparse.ArgumentParser(default_config_files=['{}/scrapify-me/scrapify.cfg'.format(home)])
+config = configargparse.ArgumentParser(default_config_files=[config_path])
 config.add('-c', '--config', required=False, is_config_file=True,
            help='Path to config file.')
 config.add('-s', '--search', dest='search_term', help='Term to search for')
@@ -55,7 +75,7 @@ args = config.parse_args()
 
 temp_log('{}/scrapify-me/log.txt'.format(home))
 log = open('{}/scrapify-me/log.txt'.format(home), 'a+')
-tmp = open('{}/scrapify-me/temp_log.txt'.format(home), 'r+')
+tmp = open('{}/scrapify-me/temp_log.txt'.format(home), 'a+')
 
 ## Check which arg values have been set
 print(vars(args).values())
@@ -75,7 +95,7 @@ for submission in search_subreddit:
     log.seek(0)
     log.write('{}\n'.format(topics_dict))
         ## type(topics_dict) # this is just a string, not a dict
-subprocess.check_call(['sort', '-u', '-o', 'log.txt', 'log.txt'])
+subprocess.check_call(['sort', '-u', '-o', '{}/scrapify-me/log.txt'.format(home), '{}/scrapify-me/log.txt'.format(home)])
 diff = difflib.ndiff(log.readlines(), tmp.readlines())
 for line in diff:
     channel = 'UABLM0KRP'

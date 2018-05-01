@@ -2,3 +2,7 @@ config
 scrapify.cfg
 log.txt
 temp_log.txt
+Dockerfile
+root
+requirements.txt
+.dockerignore
